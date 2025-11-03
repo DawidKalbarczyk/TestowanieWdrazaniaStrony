@@ -1,0 +1,46 @@
+body {
+    background-color: #151515;
+    font-family: Arial;
+}
+
+.p-title {
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.pick-button {
+    cursor: pointer;
+    background-color: transparent;
+    border: 3px solid white;
+    padding: 30px;
+    border-radius: 60px;
+    margin-right: 10px;
+}
+
+.pick-image {
+    height: 50px;
+}
+
+.p-result {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.p-moves {
+    color: white;
+}
+.score-css {
+    margin-top: 50px;
+    color: white;
+}
+
+.reset-button {
+    padding: 8px 15px;
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+}
